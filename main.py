@@ -9,4 +9,4 @@ a=6
 b=8
 print(a==b)
 print("4st program")
-print(int(1234.5610%10))
+print(int(float('123.456') * 10) % 10)
